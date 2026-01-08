@@ -58,6 +58,6 @@ This project analyzes pizza sales data to uncover key business insights using **
 ![Dashboard Screenshot](Pizza_sale_dashboard.png)
 
 ## 📎 Author
-**Hiba Safinaz**  
+**Rachakunta Mahesh**  
 Aspiring Data Analyst | SQL | Excel | Power BI
 
